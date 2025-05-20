@@ -5,7 +5,7 @@
     Make sure to run as Administrator or with appropriate privileges.
 
 .NOTES
-    Author        : Trevino Parker
+    Author        : Toba Omoniyi
     Date Created  : 2025-01-19
     Last Modified : 2025-01-19
     Version       : 1.0
